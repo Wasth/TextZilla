@@ -1,0 +1,12 @@
+
+.menu-bar {
+    -fx-background-color: derive(#1d1d1d,0%);
+}
+
+.context-menu {
+    -fx-background-color: derive(#1d1d1d,30%);
+}
+.text-area{
+    -fx-background-color: #1d1d1d;
+    -fx-fill-text: white;
+}
